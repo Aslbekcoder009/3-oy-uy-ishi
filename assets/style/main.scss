@@ -1,0 +1,884 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1000px;
+    height: 7357px;
+
+    margin: 0px auto;
+
+    .son1 {
+        width: 800px;
+        height: 81px;
+
+        margin-left: 102px;
+
+        .ert {
+            margin-top: 40px;
+            cursor: pointer;
+        }
+
+        .ol1 {
+            list-style: none;
+            display: flex;
+            gap: 39px;
+            margin-left: 300px;
+            margin-top: -21px;
+
+            .li1 {
+                font-weight: 400;
+                color: black;
+                cursor: pointer;
+
+                &:hover {
+                    color: red;
+                }
+            }
+
+            .ert2 {
+                margin-left: -32px;
+                margin-top: 2px;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .son2 {
+        width: 800px;
+        height: 685px;
+
+        margin: 0px auto;
+
+        .p1 {
+            margin-top: 92px;
+            font-size: 42px;
+            font-weight: 700;
+            color: #FF8A56;
+        }
+
+        .p2 {
+            font-size: 42px;
+            font-weight: 700;
+        }
+
+        .p3 {
+            margin-top: 23px;
+            color: #666666;
+            font-size: px;
+        }
+
+        .btn1 {
+            width: 151px;
+            height: 58px;
+            background-color: black;
+            color: white;
+            margin-top: 45px;
+            border-color: transparent;
+            cursor: pointer;
+
+            &:hover {
+                transition: 1s;
+                background-color: aqua;
+            }
+        }
+
+        .btn2 {
+            width: 151px;
+            height: 58px;
+            background-color: transparent;
+            border-color: transparent;
+            cursor: pointer;
+
+            .er2 {
+                margin-left: 10px;
+            }
+
+            &:hover {
+                transition: 1s;
+                background-color: aqua;
+            }
+        }
+
+        .img1 {
+            width: 350px;
+            height: 400px;
+            position: relative;
+            left: 470px;
+            bottom: 330px;
+        }
+    }
+
+    .son3 {
+        width: 662px;
+        height: 251.73px;
+
+        margin: 0px auto;
+        position: relative;
+        bottom: 290px;
+
+        .p4 {
+            margin-left: 286px;
+            margin-top: 77px;
+            color: #000;
+            font-weight: 600;
+        }
+
+        .imglar {
+            width: 800px;
+            gap: 50px;
+            margin-top: 30px;
+
+            .img2 {
+                margin-right: 30px;
+            }
+
+            .img3 {
+                margin-right: 30px;
+            }
+        }
+
+    }
+
+    .son4 {
+        width: 800px;
+        height: 813px;
+
+
+        margin: 0px auto;
+        margin-top: -350px;
+
+        .po1 {
+            font-size: 22px;
+            font-weight: 700;
+            color: #FF5E69;
+            margin-left: 350px;
+            margin-top: 76px;
+
+        }
+
+        .po2 {
+            font-size: 34px;
+            font-weight: 700;
+            margin-left: 175px;
+
+            .spnm {
+                margin-left: 50px;
+            }
+        }
+
+        .box {
+            width: 800px;
+            height: 381px;
+
+            margin-top: 90px;
+            gap: 30px;
+            display: flex;
+
+            .bor1 {
+                width: 260px;
+                height: 381px;
+
+
+                .lo1 {
+                    margin-top: 39px;
+                    font-size: 22px;
+                    font-weight: 700;
+                }
+
+                .lo2 {
+                    font-size: 16px;
+                    color: #666666;
+                    margin-top: 25px;
+                    cursor: pointer;
+                }
+
+                .ol2 {
+                    list-style: none;
+                    margin-top: 21px;
+                    font-size: 16px;
+                    font-weight: 700;
+                    cursor: pointer;
+                    transition: 1s;
+
+                    .kkl {
+                        margin-right: 10px;
+
+                    }
+                }
+            }
+
+            .bor2 {
+                width: 260px;
+                height: 381px;
+
+                .lo1 {
+                    margin-top: 39px;
+                    font-size: 22px;
+                    font-weight: 700;
+                }
+
+                .lo2 {
+                    font-size: 16px;
+                    color: #666666;
+                    margin-top: 25px;
+                    cursor: pointer;
+                }
+
+                .ol2 {
+                    list-style: none;
+                    margin-top: 21px;
+                    font-size: 16px;
+                    font-weight: 700;
+                    cursor: pointer;
+
+                    .kkl {
+                        margin-right: 10px;
+                    }
+                }
+            }
+
+            .bor3 {
+                width: 260px;
+                height: 381px;
+
+                .lo1 {
+                    margin-top: 39px;
+                    font-size: 22px;
+                    font-weight: 700;
+                }
+
+                .lo2 {
+                    font-size: 16px;
+                    color: #666666;
+                    margin-top: 25px;
+                    cursor: pointer;
+                }
+
+                .ol2 {
+                    list-style: none;
+                    margin-top: 21px;
+                    font-size: 16px;
+                    font-weight: 700;
+                    cursor: pointer;
+
+                    .kkl {
+                        margin-right: 10px;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .son5 {
+        width: 1000px;
+        height: 855px;
+
+        margin-top: -220px;
+       
+
+        .k1 {
+            margin-left: 113px;
+            margin-top: 80px;
+            font-weight: 700;
+            color: #B16CEA;
+            font-size: 22px;
+            cursor: pointer;
+        }
+
+        .k2 {
+            margin-left: 113px;
+            margin-top: 16px;
+            font-size: 34px;
+            font-weight: 700;
+        }
+
+        .k3 {
+            margin-left: 113px;
+            font-size: 34px;
+            font-weight: 700;
+        }
+
+        .buy1 {
+            position: relative;
+            left: 720px;
+            bottom: 70px;
+            width: 201px;
+            height: 58px;
+            background-color: #000;
+            color: white;
+            font-size: 17px;
+            font-weight: 700;
+            border-color: transparent;
+            transition: 1s;
+            cursor: pointer;
+
+            &:hover {
+                transition: 1s;
+                background-color: aqua;
+            }
+
+        }
+        .bx{
+            width: 302px;
+            height: 470px;
+        border: 1px solid black;
+            margin-top: 65px;
+            margin-left: 20px;
+            .ok{
+                width: 300px;
+                height: 250px;
+            }
+            .bx1{
+                margin-left: 32px;
+                margin-top: 35px;
+                color: #3C46FF;
+                font-size: 14px;
+                font-weight: 700    ;
+            }
+            .bx2{
+                margin-left: 32px;
+                margin-top: 15px;
+                font-size: 24px;
+                font-weight: 700;
+            }
+            .bx3{
+                margin-left: 32px;
+                margin-top: 39px;
+                font-size: 18px;
+                cursor: pointer;
+                transition: 1s;
+                &:hover{
+                    transition: 1s;
+                    color: red;
+                }
+            }
+        }
+        .vb{
+            width: 302px;
+            height: 470px;
+            border: 1px solid black;
+           position: relative;
+           bottom: 470px;
+           left: 360px;
+           background-color: whit;
+           .ok{
+            width: 300px;
+            height: 250px;
+        }
+        .bx1{
+            margin-left: 32px;
+            margin-top: 35px;
+            color: #3C46FF;
+            font-size: 14px;
+            font-weight: 700    ;
+        }
+        .bx2{
+            margin-left: 22px;
+            margin-top: 15px;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .bx3{
+            margin-left: 32px;
+            margin-top: 39px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: 1s;
+            &:hover{
+                transition: 1s;
+                color: red;
+            }
+        }
+        }
+        .jk{
+            width: 300px;
+            height: 470px;
+            border: 1px solid black;
+           position: relative;
+           bottom: 940px;
+           left: 699px;
+           .ok{
+            width: 298px;
+            height: 250px;
+           }
+           .bx1{
+            margin-left: 32px;
+            margin-top: 35px;
+            color: #3C46FF;
+            font-size: 14px;
+            font-weight: 700    ;
+        }
+        .bx2{
+            margin-left: 29px;
+            margin-top: 15px;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .bx3{
+            margin-left: 35px;
+            margin-top: 39px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: 1s;
+            &:hover{
+                transition: 1s;
+                color: red;
+            }
+        }
+        }
+    }
+    .son6{
+        width: 1000px;
+        height: 1200px;
+        background-color: #000;
+        margin-top: -140px;
+        .imk1{
+            margin-left: 830px;
+            margin-top: 30px;
+            margin-right: 5px;
+            cursor: pointer;
+        }
+        .imk2{
+            cursor: pointer;
+        }
+        .birt{
+            width: 800px;
+            height: 1300px;  
+         
+            margin: 0px auto;
+            margin-top: 20px;
+            display: flex;
+
+            .hir{
+                width: 300px;
+                height: 293px;
+              
+                margin-top: 80px;
+                .d1{
+                    font-size: 22px;
+                    font-weight: 700;
+                    color: #FFA84B;
+
+                }
+                .d2{
+                    color: white;
+                    font-size: 34px;
+                    font-weight: 700;
+                    margin-top: 15px;
+                }
+                .bx3{
+          
+                    margin-top: 29px;
+                    font-size: 18px;
+                    cursor: pointer;
+                    color: white;
+                    transition: 1s;
+                    &:hover{
+                        transition: 1s;
+                        color:aqua;
+                    }
+                }
+            }
+            .hir2{
+                width: 500px;
+                height: 1000px;
+          
+                color: white;
+                .io2{
+                    font-size: 22px;
+                    margin-top: 30px;
+                }
+                .io3{
+                    margin-top: 41px;
+                    transition: 1s;
+                    cursor: pointer;
+                    &:hover{
+                        transition: 1s;
+                        color:aqua;
+                    }   
+                }
+            }
+
+
+        }
+    }
+    .son7{
+        width: 1000px;
+        height: 1025px;
+
+        margin-top: 79px;
+        .bosh{
+            width: 800px;
+            height: 190px;
+            margin: 0px auto;
+            
+          
+            .jo1{
+                margin-top: 80px;
+                font-size: 22px;
+                font-weight: 700;
+                color: #FF5E69;
+            }
+            .jo2{
+                font-size: 34px;
+                font-weight: 700;
+            }
+            .jo3{
+                margin-left: 350px;
+                margin-top: -70px;
+                color: #666666;
+            }
+        }
+        .h1{
+            margin-top: -100px;
+
+        }
+        .h2{
+            width: 290px;
+            height: 625px;
+        }
+        .h4{
+            position: relative;
+            bottom: 630px;
+            left: 635px;
+        }
+    }
+    .son8{
+        width: 800px;
+        height: 600px;
+
+        margin: 0px auto;
+        margin-top: -160px;
+        display: flex;
+        gap:20px;
+        .bola1{
+            width: 390px;
+            height: 600px;
+            cursor: pointer;
+            .lkj{
+                margin-top: 85px;
+                .q1{
+                    font-size: 24px;
+                    font-weight: 700;
+                }
+                .q2{
+                    font-size: 16px;
+                    font-weight: 400;
+                    color: gray;
+                }
+                .q3{
+                    margin-left: 279px;
+                    margin-top: -20px;
+                    color: gray;
+                }
+             
+            }
+            .q1{
+                font-size: 24px;
+                font-weight: 700;
+            }
+            .q2{
+                font-size: 16px;
+                font-weight: 400;
+                color: gray;
+            }
+            .q3{
+                margin-left: 279px;
+                margin-top: -20px;
+                color: gray;
+            }
+        }
+        .bola2{
+            width: 390px;
+            height: 600px;
+            .ish{
+                width: 390px;
+                height: 352px;
+                margin-top: 55px;
+                .das{
+                    margin-left: 70px;
+                    margin-top: -45px;
+                    font-size: 24px;
+                    font-weight: 700;
+                }
+                .das2{
+                    margin-left: 70px;
+                    color: gray;
+                }
+                .das3{
+                    margin-left: 225px;
+                    margin-top: -20px;
+                    color: gray;
+
+                }
+                .das4{
+                    margin-left: 70px;
+                    margin-top: -45px;
+                    font-size: 24px;
+                    font-weight: 700;
+                    
+                }
+                .das5{
+                    margin-left: 70px;
+                    color: gray;
+
+                }
+                .das6{
+                    margin-left: 215px;
+                    margin-top: -20px;
+                    color: gray;
+
+                }
+                .das7{
+                    margin-left: 70px;
+                    margin-top: -45px;
+                    font-size: 24px;
+                    font-weight: 700;
+
+                }
+                .das8{
+                    margin-left: 70px;
+                    color: gray;
+
+                }
+                .das9{
+                    margin-left: 215px;
+                    margin-top: -20px;
+                    color: gray;
+
+                }
+            }
+        }
+    
+    }
+    .son9{
+        width: 1000px;
+        height: 800px;
+    
+        .pop1{
+            margin-top: 80px;
+            margin-left: 113px;
+            font-size: 22px;
+            font-weight: 700;
+            color: #4353FF;
+        }
+        .pop2{
+            margin-left: 113px;
+            margin-top: 20px;
+            font-size: 34px;
+            font-weight: 700;
+        }
+        .dsa{
+            width: 800px;
+            height: 450px;
+          
+            margin: 0px auto;
+            margin-top: 80px;
+            display: flex;
+            .negr{
+                width: 400px;
+                height: 450px;
+            }
+            .klon{
+                .qosh{
+                    margin-left: 56px;
+                    margin-top: 25px;
+                }
+                .qo{
+                    font-weight: 700;
+                    font-size: 19px;
+                    margin-left: 56px;
+                    margin-top: 32px;
+                }
+                .kol{
+                    margin-left: 56px;
+                    margin-top: 180px;
+                    font-size: 20px;
+                    font-weight: 700;
+                }
+                .lok{
+                    margin-left: 56px;
+                    color: gray;
+                }
+                .ki{
+                    margin-left: 270px;
+                  position: relative;
+                  top: -40px;
+                  cursor: pointer;
+                }
+                .i{
+                    position: relative;
+                    top: -40px;
+                    left: -2px;
+                    cursor: pointer;
+                }
+                
+            }
+        }
+    }
+    .son0{
+        width: 1000px;
+        height: 800px;
+        background-color: #000;
+        margin-top: -100px;
+        .s1{
+            font-size: 22px;
+            color: #FF8A56;
+         position: relative;
+         left: 440px;
+         top: 78px;
+        }
+        .s2{
+            font-size: 34px;
+            font-weight: 700;
+            color: white;
+            position: relative;
+            top: 120px;
+            left: 270px;
+
+        }
+        .hil{
+            width: 800px;
+            height: 428px;
+   
+            position: relative;
+            top: 200px;
+            margin: 0px auto;
+            display: flex;
+            gap: 48px;
+        }
+        .likop1{
+            color: white;
+            width: 380px;
+            height: 428px;
+     
+            .lin{
+                position: relative;
+                left: 330px;
+                top: -20px;
+                cursor: pointer;
+
+            }
+        }
+        .likop2{
+            color: white;
+            width: 380px;
+            height: 428px;
+            margin-top: 17px;
+     
+            .lin{
+                position: relative;
+                left: 330px;
+                top: -20px;
+                cursor: pointer;
+            }
+        }
+    }
+    .sonultra{
+        width: 1000px;
+        height: 719px;
+        background-color: black;
+    
+        color: white;
+        .xs{
+        font-size: 34px;
+        font-weight: 700;
+        margin-left: 56px;
+    position: relative;
+    top: 78px;
+
+        }
+        .xs2{
+            font-size: 34px;
+            font-weight: 700;
+            margin-left: 56px;
+        position: relative;
+        top: 87px;
+        color:#3C46FF;
+        }
+        .ox{
+            width: 800px;
+            height: 146px;
+      
+            position: relative;
+            top: 200px;
+            margin: 0px auto;
+            display: flex;
+            .ox2{
+                list-style: none;
+                .fo{
+                    font-size: 26px;
+                    font-weight: 700;
+                }
+                .of{
+                    color: #666666;
+
+                }
+                .fh{
+                    position: relative;
+                    color: gray;
+                    left: 40px;
+                    top: -25px;
+                    cursor: pointer;
+                    &:hover{
+                        color: blue;
+                    }
+                }
+
+            }
+            .klp{
+                list-style: none;
+                margin-left: 150px;
+                .mn{
+                    cursor: pointer;
+                    transition: 1s;
+                    &:hover{
+                        color: #4353FF;
+                    transition: 1s;
+
+                    }
+                }
+            }
+            .klp2{
+                list-style: none;
+                margin-left: 50px;
+                .mn{
+                    cursor: pointer;
+                    transition: 1s;
+                    &:hover{
+                        color: #4353FF;
+                    transition: 1s;
+
+                    }
+                }
+            }
+            .klp3{
+                list-style: none;
+                margin-left: 50px;
+                .mn{
+                    cursor: pointer;
+                    transition: 1s;
+                    &:hover{
+                        color: #4353FF;
+                    transition: 1s;
+
+                    }
+                }
+            }
+          
+        }
+        .oxir{
+            color: #8A95AD;
+            position: relative;
+            top: 440px;
+            margin-left: 100px;
+            cursor: pointer;
+        }
+    }
+
+}

@@ -1,0 +1,780 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1000px;
+  height: 7357px;
+  margin: 0px auto;
+}
+.container .son1 {
+  width: 800px;
+  height: 81px;
+  margin-left: 102px;
+}
+.container .son1 .ert {
+  margin-top: 40px;
+  cursor: pointer;
+}
+.container .son1 .ol1 {
+  list-style: none;
+  display: flex;
+  gap: 39px;
+  margin-left: 300px;
+  margin-top: -21px;
+}
+.container .son1 .ol1 .li1 {
+  font-weight: 400;
+  color: black;
+  cursor: pointer;
+}
+.container .son1 .ol1 .li1:hover {
+  color: red;
+}
+.container .son1 .ol1 .ert2 {
+  margin-left: -32px;
+  margin-top: 2px;
+  cursor: pointer;
+}
+.container .son2 {
+  width: 800px;
+  height: 685px;
+  margin: 0px auto;
+}
+.container .son2 .p1 {
+  margin-top: 92px;
+  font-size: 42px;
+  font-weight: 700;
+  color: #FF8A56;
+}
+.container .son2 .p2 {
+  font-size: 42px;
+  font-weight: 700;
+}
+.container .son2 .p3 {
+  margin-top: 23px;
+  color: #666666;
+  font-size: px;
+}
+.container .son2 .btn1 {
+  width: 151px;
+  height: 58px;
+  background-color: black;
+  color: white;
+  margin-top: 45px;
+  border-color: transparent;
+  cursor: pointer;
+}
+.container .son2 .btn1:hover {
+  transition: 1s;
+  background-color: aqua;
+}
+.container .son2 .btn2 {
+  width: 151px;
+  height: 58px;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+}
+.container .son2 .btn2 .er2 {
+  margin-left: 10px;
+}
+.container .son2 .btn2:hover {
+  transition: 1s;
+  background-color: aqua;
+}
+.container .son2 .img1 {
+  width: 350px;
+  height: 400px;
+  position: relative;
+  left: 470px;
+  bottom: 330px;
+}
+.container .son3 {
+  width: 662px;
+  height: 251.73px;
+  margin: 0px auto;
+  position: relative;
+  bottom: 290px;
+}
+.container .son3 .p4 {
+  margin-left: 286px;
+  margin-top: 77px;
+  color: #000;
+  font-weight: 600;
+}
+.container .son3 .imglar {
+  width: 800px;
+  gap: 50px;
+  margin-top: 30px;
+}
+.container .son3 .imglar .img2 {
+  margin-right: 30px;
+}
+.container .son3 .imglar .img3 {
+  margin-right: 30px;
+}
+.container .son4 {
+  width: 800px;
+  height: 813px;
+  margin: 0px auto;
+  margin-top: -350px;
+}
+.container .son4 .po1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #FF5E69;
+  margin-left: 350px;
+  margin-top: 76px;
+}
+.container .son4 .po2 {
+  font-size: 34px;
+  font-weight: 700;
+  margin-left: 175px;
+}
+.container .son4 .po2 .spnm {
+  margin-left: 50px;
+}
+.container .son4 .box {
+  width: 800px;
+  height: 381px;
+  margin-top: 90px;
+  gap: 30px;
+  display: flex;
+}
+.container .son4 .box .bor1 {
+  width: 260px;
+  height: 381px;
+}
+.container .son4 .box .bor1 .lo1 {
+  margin-top: 39px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.container .son4 .box .bor1 .lo2 {
+  font-size: 16px;
+  color: #666666;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.container .son4 .box .bor1 .ol2 {
+  list-style: none;
+  margin-top: 21px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 1s;
+}
+.container .son4 .box .bor1 .ol2 .kkl {
+  margin-right: 10px;
+}
+.container .son4 .box .bor2 {
+  width: 260px;
+  height: 381px;
+}
+.container .son4 .box .bor2 .lo1 {
+  margin-top: 39px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.container .son4 .box .bor2 .lo2 {
+  font-size: 16px;
+  color: #666666;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.container .son4 .box .bor2 .ol2 {
+  list-style: none;
+  margin-top: 21px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.container .son4 .box .bor2 .ol2 .kkl {
+  margin-right: 10px;
+}
+.container .son4 .box .bor3 {
+  width: 260px;
+  height: 381px;
+}
+.container .son4 .box .bor3 .lo1 {
+  margin-top: 39px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.container .son4 .box .bor3 .lo2 {
+  font-size: 16px;
+  color: #666666;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.container .son4 .box .bor3 .ol2 {
+  list-style: none;
+  margin-top: 21px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.container .son4 .box .bor3 .ol2 .kkl {
+  margin-right: 10px;
+}
+.container .son5 {
+  width: 1000px;
+  height: 855px;
+  margin-top: -220px;
+}
+.container .son5 .k1 {
+  margin-left: 113px;
+  margin-top: 80px;
+  font-weight: 700;
+  color: #B16CEA;
+  font-size: 22px;
+  cursor: pointer;
+}
+.container .son5 .k2 {
+  margin-left: 113px;
+  margin-top: 16px;
+  font-size: 34px;
+  font-weight: 700;
+}
+.container .son5 .k3 {
+  margin-left: 113px;
+  font-size: 34px;
+  font-weight: 700;
+}
+.container .son5 .buy1 {
+  position: relative;
+  left: 720px;
+  bottom: 70px;
+  width: 201px;
+  height: 58px;
+  background-color: #000;
+  color: white;
+  font-size: 17px;
+  font-weight: 700;
+  border-color: transparent;
+  transition: 1s;
+  cursor: pointer;
+}
+.container .son5 .buy1:hover {
+  transition: 1s;
+  background-color: aqua;
+}
+.container .son5 .bx {
+  width: 302px;
+  height: 470px;
+  border: 1px solid black;
+  margin-top: 65px;
+  margin-left: 20px;
+}
+.container .son5 .bx .ok {
+  width: 300px;
+  height: 250px;
+}
+.container .son5 .bx .bx1 {
+  margin-left: 32px;
+  margin-top: 35px;
+  color: #3C46FF;
+  font-size: 14px;
+  font-weight: 700;
+}
+.container .son5 .bx .bx2 {
+  margin-left: 32px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son5 .bx .bx3 {
+  margin-left: 32px;
+  margin-top: 39px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 1s;
+}
+.container .son5 .bx .bx3:hover {
+  transition: 1s;
+  color: red;
+}
+.container .son5 .vb {
+  width: 302px;
+  height: 470px;
+  border: 1px solid black;
+  position: relative;
+  bottom: 470px;
+  left: 360px;
+  background-color: whit;
+}
+.container .son5 .vb .ok {
+  width: 300px;
+  height: 250px;
+}
+.container .son5 .vb .bx1 {
+  margin-left: 32px;
+  margin-top: 35px;
+  color: #3C46FF;
+  font-size: 14px;
+  font-weight: 700;
+}
+.container .son5 .vb .bx2 {
+  margin-left: 22px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son5 .vb .bx3 {
+  margin-left: 32px;
+  margin-top: 39px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 1s;
+}
+.container .son5 .vb .bx3:hover {
+  transition: 1s;
+  color: red;
+}
+.container .son5 .jk {
+  width: 300px;
+  height: 470px;
+  border: 1px solid black;
+  position: relative;
+  bottom: 940px;
+  left: 699px;
+}
+.container .son5 .jk .ok {
+  width: 298px;
+  height: 250px;
+}
+.container .son5 .jk .bx1 {
+  margin-left: 32px;
+  margin-top: 35px;
+  color: #3C46FF;
+  font-size: 14px;
+  font-weight: 700;
+}
+.container .son5 .jk .bx2 {
+  margin-left: 29px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son5 .jk .bx3 {
+  margin-left: 35px;
+  margin-top: 39px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 1s;
+}
+.container .son5 .jk .bx3:hover {
+  transition: 1s;
+  color: red;
+}
+.container .son6 {
+  width: 1000px;
+  height: 1200px;
+  background-color: #000;
+  margin-top: -140px;
+}
+.container .son6 .imk1 {
+  margin-left: 830px;
+  margin-top: 30px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.container .son6 .imk2 {
+  cursor: pointer;
+}
+.container .son6 .birt {
+  width: 800px;
+  height: 1300px;
+  margin: 0px auto;
+  margin-top: 20px;
+  display: flex;
+}
+.container .son6 .birt .hir {
+  width: 300px;
+  height: 293px;
+  margin-top: 80px;
+}
+.container .son6 .birt .hir .d1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #FFA84B;
+}
+.container .son6 .birt .hir .d2 {
+  color: white;
+  font-size: 34px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+.container .son6 .birt .hir .bx3 {
+  margin-top: 29px;
+  font-size: 18px;
+  cursor: pointer;
+  color: white;
+  transition: 1s;
+}
+.container .son6 .birt .hir .bx3:hover {
+  transition: 1s;
+  color: aqua;
+}
+.container .son6 .birt .hir2 {
+  width: 500px;
+  height: 1000px;
+  color: white;
+}
+.container .son6 .birt .hir2 .io2 {
+  font-size: 22px;
+  margin-top: 30px;
+}
+.container .son6 .birt .hir2 .io3 {
+  margin-top: 41px;
+  transition: 1s;
+  cursor: pointer;
+}
+.container .son6 .birt .hir2 .io3:hover {
+  transition: 1s;
+  color: aqua;
+}
+.container .son7 {
+  width: 1000px;
+  height: 1025px;
+  margin-top: 79px;
+}
+.container .son7 .bosh {
+  width: 800px;
+  height: 190px;
+  margin: 0px auto;
+}
+.container .son7 .bosh .jo1 {
+  margin-top: 80px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #FF5E69;
+}
+.container .son7 .bosh .jo2 {
+  font-size: 34px;
+  font-weight: 700;
+}
+.container .son7 .bosh .jo3 {
+  margin-left: 350px;
+  margin-top: -70px;
+  color: #666666;
+}
+.container .son7 .h1 {
+  margin-top: -100px;
+}
+.container .son7 .h2 {
+  width: 290px;
+  height: 625px;
+}
+.container .son7 .h4 {
+  position: relative;
+  bottom: 630px;
+  left: 635px;
+}
+.container .son8 {
+  width: 800px;
+  height: 600px;
+  margin: 0px auto;
+  margin-top: -160px;
+  display: flex;
+  gap: 20px;
+}
+.container .son8 .bola1 {
+  width: 390px;
+  height: 600px;
+  cursor: pointer;
+}
+.container .son8 .bola1 .lkj {
+  margin-top: 85px;
+}
+.container .son8 .bola1 .lkj .q1 {
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son8 .bola1 .lkj .q2 {
+  font-size: 16px;
+  font-weight: 400;
+  color: gray;
+}
+.container .son8 .bola1 .lkj .q3 {
+  margin-left: 279px;
+  margin-top: -20px;
+  color: gray;
+}
+.container .son8 .bola1 .q1 {
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son8 .bola1 .q2 {
+  font-size: 16px;
+  font-weight: 400;
+  color: gray;
+}
+.container .son8 .bola1 .q3 {
+  margin-left: 279px;
+  margin-top: -20px;
+  color: gray;
+}
+.container .son8 .bola2 {
+  width: 390px;
+  height: 600px;
+}
+.container .son8 .bola2 .ish {
+  width: 390px;
+  height: 352px;
+  margin-top: 55px;
+}
+.container .son8 .bola2 .ish .das {
+  margin-left: 70px;
+  margin-top: -45px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son8 .bola2 .ish .das2 {
+  margin-left: 70px;
+  color: gray;
+}
+.container .son8 .bola2 .ish .das3 {
+  margin-left: 225px;
+  margin-top: -20px;
+  color: gray;
+}
+.container .son8 .bola2 .ish .das4 {
+  margin-left: 70px;
+  margin-top: -45px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son8 .bola2 .ish .das5 {
+  margin-left: 70px;
+  color: gray;
+}
+.container .son8 .bola2 .ish .das6 {
+  margin-left: 215px;
+  margin-top: -20px;
+  color: gray;
+}
+.container .son8 .bola2 .ish .das7 {
+  margin-left: 70px;
+  margin-top: -45px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.container .son8 .bola2 .ish .das8 {
+  margin-left: 70px;
+  color: gray;
+}
+.container .son8 .bola2 .ish .das9 {
+  margin-left: 215px;
+  margin-top: -20px;
+  color: gray;
+}
+.container .son9 {
+  width: 1000px;
+  height: 800px;
+}
+.container .son9 .pop1 {
+  margin-top: 80px;
+  margin-left: 113px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #4353FF;
+}
+.container .son9 .pop2 {
+  margin-left: 113px;
+  margin-top: 20px;
+  font-size: 34px;
+  font-weight: 700;
+}
+.container .son9 .dsa {
+  width: 800px;
+  height: 450px;
+  margin: 0px auto;
+  margin-top: 80px;
+  display: flex;
+}
+.container .son9 .dsa .negr {
+  width: 400px;
+  height: 450px;
+}
+.container .son9 .dsa .klon .qosh {
+  margin-left: 56px;
+  margin-top: 25px;
+}
+.container .son9 .dsa .klon .qo {
+  font-weight: 700;
+  font-size: 19px;
+  margin-left: 56px;
+  margin-top: 32px;
+}
+.container .son9 .dsa .klon .kol {
+  margin-left: 56px;
+  margin-top: 180px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.container .son9 .dsa .klon .lok {
+  margin-left: 56px;
+  color: gray;
+}
+.container .son9 .dsa .klon .ki {
+  margin-left: 270px;
+  position: relative;
+  top: -40px;
+  cursor: pointer;
+}
+.container .son9 .dsa .klon .i {
+  position: relative;
+  top: -40px;
+  left: -2px;
+  cursor: pointer;
+}
+.container .son0 {
+  width: 1000px;
+  height: 800px;
+  background-color: #000;
+  margin-top: -100px;
+}
+.container .son0 .s1 {
+  font-size: 22px;
+  color: #FF8A56;
+  position: relative;
+  left: 440px;
+  top: 78px;
+}
+.container .son0 .s2 {
+  font-size: 34px;
+  font-weight: 700;
+  color: white;
+  position: relative;
+  top: 120px;
+  left: 270px;
+}
+.container .son0 .hil {
+  width: 800px;
+  height: 428px;
+  position: relative;
+  top: 200px;
+  margin: 0px auto;
+  display: flex;
+  gap: 48px;
+}
+.container .son0 .likop1 {
+  color: white;
+  width: 380px;
+  height: 428px;
+}
+.container .son0 .likop1 .lin {
+  position: relative;
+  left: 330px;
+  top: -20px;
+  cursor: pointer;
+}
+.container .son0 .likop2 {
+  color: white;
+  width: 380px;
+  height: 428px;
+  margin-top: 17px;
+}
+.container .son0 .likop2 .lin {
+  position: relative;
+  left: 330px;
+  top: -20px;
+  cursor: pointer;
+}
+.container .sonultra {
+  width: 1000px;
+  height: 719px;
+  background-color: black;
+  color: white;
+}
+.container .sonultra .xs {
+  font-size: 34px;
+  font-weight: 700;
+  margin-left: 56px;
+  position: relative;
+  top: 78px;
+}
+.container .sonultra .xs2 {
+  font-size: 34px;
+  font-weight: 700;
+  margin-left: 56px;
+  position: relative;
+  top: 87px;
+  color: #3C46FF;
+}
+.container .sonultra .ox {
+  width: 800px;
+  height: 146px;
+  position: relative;
+  top: 200px;
+  margin: 0px auto;
+  display: flex;
+}
+.container .sonultra .ox .ox2 {
+  list-style: none;
+}
+.container .sonultra .ox .ox2 .fo {
+  font-size: 26px;
+  font-weight: 700;
+}
+.container .sonultra .ox .ox2 .of {
+  color: #666666;
+}
+.container .sonultra .ox .ox2 .fh {
+  position: relative;
+  color: gray;
+  left: 40px;
+  top: -25px;
+  cursor: pointer;
+}
+.container .sonultra .ox .ox2 .fh:hover {
+  color: blue;
+}
+.container .sonultra .ox .klp {
+  list-style: none;
+  margin-left: 150px;
+}
+.container .sonultra .ox .klp .mn {
+  cursor: pointer;
+  transition: 1s;
+}
+.container .sonultra .ox .klp .mn:hover {
+  color: #4353FF;
+  transition: 1s;
+}
+.container .sonultra .ox .klp2 {
+  list-style: none;
+  margin-left: 50px;
+}
+.container .sonultra .ox .klp2 .mn {
+  cursor: pointer;
+  transition: 1s;
+}
+.container .sonultra .ox .klp2 .mn:hover {
+  color: #4353FF;
+  transition: 1s;
+}
+.container .sonultra .ox .klp3 {
+  list-style: none;
+  margin-left: 50px;
+}
+.container .sonultra .ox .klp3 .mn {
+  cursor: pointer;
+  transition: 1s;
+}
+.container .sonultra .ox .klp3 .mn:hover {
+  color: #4353FF;
+  transition: 1s;
+}
+.container .sonultra .oxir {
+  color: #8A95AD;
+  position: relative;
+  top: 440px;
+  margin-left: 100px;
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */
